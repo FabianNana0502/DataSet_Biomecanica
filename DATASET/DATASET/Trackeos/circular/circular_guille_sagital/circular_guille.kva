@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KinoveaVideoAnalysis>
+  <FormatVersion>2.0</FormatVersion>
+  <Producer>Kinovea.2023.1.2</Producer>
+  <OriginalFilename>circular_guille</OriginalFilename>
+  <FullPath>C:\Users\jakec\Desktop\biomek\circular_guille.MTS</FullPath>
+  <ImageSize>1920;1080</ImageSize>
+  <Aspect>Auto</Aspect>
+  <Rotation>Rotate0</Rotation>
+  <Mirror>false</Mirror>
+  <Demosaicing>None</Demosaicing>
+  <Deinterlacing>false</Deinterlacing>
+  <AverageTimeStampsPerFrame>3003</AverageTimeStampsPerFrame>
+  <CaptureFramerate>29.97002997003</CaptureFramerate>
+  <UserFramerate>29.97002997003</UserFramerate>
+  <FirstTimeStamp>93003</FirstTimeStamp>
+  <SelectionStart>336246</SelectionStart>
+  <SelectionEnd>405315</SelectionEnd>
+  <TimeOrigin>336246</TimeOrigin>
+  <Calibration>
+    <CalibrationLine>
+      <Length>42</Length>
+      <Segment>
+        <A>1125.315;1069.93</A>
+        <B>1332.988;1069.93</B>
+      </Segment>
+      <Origin>-119.1382;42</Origin>
+      <Axis>ImageAxes</Axis>
+    </CalibrationLine>
+    <CalibrationDrawingId>a77a94a6-b6ad-4038-a66d-1d7d1c36176a</CalibrationDrawingId>
+    <Unit Abbreviation="cm">Centimeters</Unit>
+  </Calibration>
+  <Tracks>
+    <Track id="ea196b2c-0636-4f7a-9fd3-d204dbd4fc65" name="muñeca">
+      <TimePosition>336246</TimePosition>
+      <Visible>336246</Visible>
+      <Invisible>-1</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Circle</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>180;108</SearchWindow>
+        <BlockWindow>66;44</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="24">
+        <TrackPoint>1310.355;546.1418;336246</TrackPoint>
+        <TrackPoint>1328.349;540.1505;339249</TrackPoint>
+        <TrackPoint>1346.351;530.1676;342252</TrackPoint>
+        <TrackPoint>1360.336;520.1895;345255</TrackPoint>
+        <TrackPoint>1370.33;510.2162;348258</TrackPoint>
+        <TrackPoint>1393.514;485.0168;351261</TrackPoint>
+        <TrackPoint>1399.562;471.9131;354264</TrackPoint>
+        <TrackPoint>1401.577;450.7457;357267</TrackPoint>
+        <TrackPoint>1405.609;424.5383;360270</TrackPoint>
+        <TrackPoint>1418.713;376.1555;363273</TrackPoint>
+        <TrackPoint>1414.681;329.7887;366276</TrackPoint>
+        <TrackPoint>1382.426;285.4379;369279</TrackPoint>
+        <TrackPoint>1356.218;252.1747;372282</TrackPoint>
+        <TrackPoint>1339.083;233.0232;375285</TrackPoint>
+        <TrackPoint>1317.915;228.9913;378288</TrackPoint>
+        <TrackPoint>1297.756;226.9754;381291</TrackPoint>
+        <TrackPoint>1265.501;220.9275;384294</TrackPoint>
+        <TrackPoint>1184.863;195.7282;387297</TrackPoint>
+        <TrackPoint>1102.209;180.6086;390300</TrackPoint>
+        <TrackPoint>934.8851;236.0472;393303</TrackPoint>
+        <TrackPoint>849.1834;312.6133;396306</TrackPoint>
+        <TrackPoint>841.1196;523.28;399309</TrackPoint>
+        <TrackPoint>883.5024;624.1492;402312</TrackPoint>
+        <TrackPoint>883.5024;624.1492;405315</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="muñeca">
+        <SpacePosition>1290.355;496.1418</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;255;0;0</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="cb72246e-0c9a-4d36-b6a3-b891f4fbbde2" name="hombro">
+      <TimePosition>336246</TimePosition>
+      <Visible>336246</Visible>
+      <Invisible>-1</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Circle</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>204;122</SearchWindow>
+        <BlockWindow>83;62</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="24">
+        <TrackPoint>1293.184;408.2682;336246</TrackPoint>
+        <TrackPoint>1298.161;408.2671;339249</TrackPoint>
+        <TrackPoint>1302.147;408.2709;342252</TrackPoint>
+        <TrackPoint>1303.151;410.2689;345255</TrackPoint>
+        <TrackPoint>1305.141;414.2691;348258</TrackPoint>
+        <TrackPoint>1305.14;419.2682;351261</TrackPoint>
+        <TrackPoint>1305.135;421.2676;354264</TrackPoint>
+        <TrackPoint>1304.141;421.2678;357267</TrackPoint>
+        <TrackPoint>1304.131;423.2661;360270</TrackPoint>
+        <TrackPoint>1302.126;421.2652;363273</TrackPoint>
+        <TrackPoint>1298.131;415.2635;366276</TrackPoint>
+        <TrackPoint>1292.148;413.2632;369279</TrackPoint>
+        <TrackPoint>1296.155;403.2599;372282</TrackPoint>
+        <TrackPoint>1267.152;395.2567;375285</TrackPoint>
+        <TrackPoint>1250.238;397.2155;378288</TrackPoint>
+        <TrackPoint>1233.502;390.5069;381291</TrackPoint>
+        <TrackPoint>1205.097;368.5749;384294</TrackPoint>
+        <TrackPoint>1156.105;371.5952;387297</TrackPoint>
+        <TrackPoint>1129.673;382.5452;390300</TrackPoint>
+        <TrackPoint>1112.215;394.1402;393303</TrackPoint>
+        <TrackPoint>1097.49;406.996;396306</TrackPoint>
+        <TrackPoint>1083.236;428.3891;399309</TrackPoint>
+        <TrackPoint>1084.356;447.8987;402312</TrackPoint>
+        <TrackPoint>1083.371;476.9096;405315</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="hombro">
+        <SpacePosition>1273.184;358.2682</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;46;139;87</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="ce75d5f9-5fbc-4588-a7e0-220f3a032880" name="Codo">
+      <TimePosition>336246</TimePosition>
+      <Visible>336246</Visible>
+      <Invisible>-1</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Circle</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>198;97</SearchWindow>
+        <BlockWindow>96;54</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="24">
+        <TrackPoint>1391.339;514.067;336246</TrackPoint>
+        <TrackPoint>1392.334;506.0749;339249</TrackPoint>
+        <TrackPoint>1392.325;498.0824;342252</TrackPoint>
+        <TrackPoint>1392.331;492.0841;345255</TrackPoint>
+        <TrackPoint>1392.328;484.0912;348258</TrackPoint>
+        <TrackPoint>1392.325;480.0967;351261</TrackPoint>
+        <TrackPoint>1392.328;477.0851;354264</TrackPoint>
+        <TrackPoint>1391.863;468.6874;357267</TrackPoint>
+        <TrackPoint>1396.361;459.956;360270</TrackPoint>
+        <TrackPoint>1412.32;442.8968;363273</TrackPoint>
+        <TrackPoint>1421.922;422.5013;366276</TrackPoint>
+        <TrackPoint>1419.65;399.3468;369279</TrackPoint>
+        <TrackPoint>1414.195;381.8766;372282</TrackPoint>
+        <TrackPoint>1386.967;344.9094;375285</TrackPoint>
+        <TrackPoint>1356.774;304.7855;378288</TrackPoint>
+        <TrackPoint>1261.605;270.8032;381291</TrackPoint>
+        <TrackPoint>1188.006;251.7687;384294</TrackPoint>
+        <TrackPoint>1096.64;255.5756;387297</TrackPoint>
+        <TrackPoint>1016.695;298.7204;390300</TrackPoint>
+        <TrackPoint>986.3798;328.1666;393303</TrackPoint>
+        <TrackPoint>961.0005;410.6493;396306</TrackPoint>
+        <TrackPoint>959.7321;490.5972;399309</TrackPoint>
+        <TrackPoint>978.7544;553.0767;402312</TrackPoint>
+        <TrackPoint>978.7544;553.0767;405315</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="Codo">
+        <SpacePosition>1371.339;464.067</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;0;0;255</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="cd0471bd-11dc-4875-a3a2-f05792d5a2b2" name="media_espalda">
+      <TimePosition>336246</TimePosition>
+      <Visible>336246</Visible>
+      <Invisible>-1</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Circle</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>169;78</SearchWindow>
+        <BlockWindow>67;45</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="24">
+        <TrackPoint>1262.756;529.1021;336246</TrackPoint>
+        <TrackPoint>1264.758;528.0992;339249</TrackPoint>
+        <TrackPoint>1265.752;528.0963;342252</TrackPoint>
+        <TrackPoint>1264.755;528.0972;345255</TrackPoint>
+        <TrackPoint>1269.836;533.6305;348258</TrackPoint>
+        <TrackPoint>1273.362;545.9678;351261</TrackPoint>
+        <TrackPoint>1273.642;547.423;354264</TrackPoint>
+        <TrackPoint>1272.375;551.2338;357267</TrackPoint>
+        <TrackPoint>1271.386;550.2314;360270</TrackPoint>
+        <TrackPoint>1277.453;543.4326;363273</TrackPoint>
+        <TrackPoint>1276.444;538.4336;366276</TrackPoint>
+        <TrackPoint>1275.44;534.4317;369279</TrackPoint>
+        <TrackPoint>1275.449;531.4301;372282</TrackPoint>
+        <TrackPoint>1255.408;521.0736;375285</TrackPoint>
+        <TrackPoint>1234.102;506.1198;378288</TrackPoint>
+        <TrackPoint>1210.848;486.7371;381291</TrackPoint>
+        <TrackPoint>1182.836;470.733;384294</TrackPoint>
+        <TrackPoint>1152.841;470.7112;387297</TrackPoint>
+        <TrackPoint>1131.855;486.6079;390300</TrackPoint>
+        <TrackPoint>1124.242;506.9113;393303</TrackPoint>
+        <TrackPoint>1134.027;530.1342;396306</TrackPoint>
+        <TrackPoint>1136.577;533.8569;399309</TrackPoint>
+        <TrackPoint>1131.039;544.3891;402312</TrackPoint>
+        <TrackPoint>1128.032;555.3818;405315</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="media_espalda">
+        <SpacePosition>1242.756;479.1021</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;255;255;255</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+    <Track id="f668f25c-a755-45cb-a1da-78fdcddf2811" name="cadera">
+      <TimePosition>336246</TimePosition>
+      <Visible>336246</Visible>
+      <Invisible>-1</Invisible>
+      <ExtraData>Name</ExtraData>
+      <Marker>Circle</Marker>
+      <TrackerParameters>
+        <SimilarityThreshold>0.5</SimilarityThreshold>
+        <TemplateUpdateThreshold>0.8</TemplateUpdateThreshold>
+        <RefinementNeighborhood>1</RefinementNeighborhood>
+        <SearchWindow>270;103</SearchWindow>
+        <BlockWindow>78;49</BlockWindow>
+      </TrackerParameters>
+      <TrackPointList Count="24">
+        <TrackPoint>1243.344;614.0203;336246</TrackPoint>
+        <TrackPoint>1244.037;605.1777;339249</TrackPoint>
+        <TrackPoint>1253.533;597.5312;342252</TrackPoint>
+        <TrackPoint>1264.557;598.4147;345255</TrackPoint>
+        <TrackPoint>1262.701;606.6321;348258</TrackPoint>
+        <TrackPoint>1261.501;614.9376;351261</TrackPoint>
+        <TrackPoint>1264.57;622.3097;354264</TrackPoint>
+        <TrackPoint>1254.751;628.0479;357267</TrackPoint>
+        <TrackPoint>1248.392;626.9155;360270</TrackPoint>
+        <TrackPoint>1244.318;632.1224;363273</TrackPoint>
+        <TrackPoint>1243.049;620.7017;366276</TrackPoint>
+        <TrackPoint>1236.778;617.2541;369279</TrackPoint>
+        <TrackPoint>1226.98;601.3878;372282</TrackPoint>
+        <TrackPoint>1222.511;591.7271;375285</TrackPoint>
+        <TrackPoint>1210.312;580.5376;378288</TrackPoint>
+        <TrackPoint>1201.997;567.2715;381291</TrackPoint>
+        <TrackPoint>1185.953;554.6574;384294</TrackPoint>
+        <TrackPoint>1167.603;549.4078;387297</TrackPoint>
+        <TrackPoint>1156.615;552.4211;390300</TrackPoint>
+        <TrackPoint>1148.628;563.3987;393303</TrackPoint>
+        <TrackPoint>1152.628;580.3876;396306</TrackPoint>
+        <TrackPoint>1150.288;597.7068;399309</TrackPoint>
+        <TrackPoint>1147.681;605.0414;402312</TrackPoint>
+        <TrackPoint>1154.669;602.0393;405315</TrackPoint>
+      </TrackPointList>
+      <MainLabel Text="cadera">
+        <SpacePosition>1223.344;564.0203</SpacePosition>
+        <TimePosition>0</TimePosition>
+      </MainLabel>
+      <SeeFuture>true</SeeFuture>
+      <ShowTrackLabel>false</ShowTrackLabel>
+      <ShowKeyframeLabels>true</ShowKeyframeLabels>
+      <UseKeyframeColors>true</UseKeyframeColors>
+      <IsInteractiveTrack>true</IsInteractiveTrack>
+      <ShowRotationCircle>false</ShowRotationCircle>
+      <DrawingStyle>
+        <Color Key="color">
+          <Value>255;255;255;51</Value>
+        </Color>
+        <LineSize Key="line size">
+          <Value>3</Value>
+        </LineSize>
+        <TrackShape Key="track shape">
+          <Value>Solid;false</Value>
+        </TrackShape>
+      </DrawingStyle>
+    </Track>
+  </Tracks>
+  <CoordinateSystem id="a85a6d59-9f9b-480e-9175-4072e5d20f0c" name="Sistema de coordenadas 1">
+    <Position>536.2238;1069.93</Position>
+    <Visible>true</Visible>
+    <ShowGrid>true</ShowGrid>
+    <ShowGraduations>true</ShowGraduations>
+    <DrawingStyle>
+      <Color Key="line color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </CoordinateSystem>
+  <TestGrid id="9eda893d-9f35-4482-9a85-b0f016b52d80" name="Cuadrícula de test de cámara 1">
+    <Visible>false</Visible>
+    <ShowHorizontalAxis>true</ShowHorizontalAxis>
+    <ShowVerticalAxis>true</ShowVerticalAxis>
+    <ShowFraming>true</ShowFraming>
+    <ShowThirds>false</ShowThirds>
+    <DrawingStyle>
+      <Color Key="color">
+        <Value>255;255;0;0</Value>
+      </Color>
+    </DrawingStyle>
+  </TestGrid>
+  <Trackability />
+  <VideoFilters>
+    <Kinogram>
+      <TileCount>18</TileCount>
+      <Rows>3</Rows>
+      <CropSize>400;600</CropSize>
+      <CropPositions>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+        <CropPosition>0;0</CropPosition>
+      </CropPositions>
+      <AutoInterpolate>true</AutoInterpolate>
+      <LeftToRight>true</LeftToRight>
+      <BorderColor>44;44;44</BorderColor>
+      <BorderVisible>true</BorderVisible>
+      <MeasureLabelType>None</MeasureLabelType>
+    </Kinogram>
+  </VideoFilters>
+</KinoveaVideoAnalysis>
